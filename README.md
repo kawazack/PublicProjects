@@ -1,5 +1,10 @@
 # PublicProjects
 
-Mock Responsive Website UI for a restaurant. Mobile responsive. 
+This file includes:
 
-Html5 + Javascript + CSS
+Mock websites projects
+Not finished projects
+Code exercises
+
+
+
