@@ -1,10 +1,10 @@
 # PublicProjects
 
-This file includes:
+This folder includes:
 
-Mock websites projects.
-Not finished projects.
-Code exercises.
+- Mock websites projects.
+- Not finished projects.
+- Code exercises.
 
 
 
